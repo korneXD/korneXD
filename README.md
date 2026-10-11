@@ -28,7 +28,6 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,python&perline=8" alt="languages and frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=supabase,vercel&perline=2" alt="backend and hosting" /><img src="./assets/openai.svg" width="48" height="48" alt="OpenAI" /> <img src="./assets/claude.svg" width="48" height="48" alt="Claude" />
 
 </div>
 
