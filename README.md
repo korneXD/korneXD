@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<a href="https://x.com/itsk0rn3l"><img src="https://img.shields.io/badge/Follow_me_on_X-@itsk0rn3l-242933?style=for-the-badge&logo=x&logoColor=05C26A" alt="X (Twitter)" /></a>
+<a href="https://x.com/indiekornel"><img src="https://img.shields.io/badge/Follow_me_on_X-@indiekornel-242933?style=for-the-badge&logo=x&logoColor=05C26A" alt="X (Twitter)" /></a>
 <a href="https://www.instagram.com/halmosi_kornel_/"><img src="https://img.shields.io/badge/Instagram-halmosi__kornel__-242933?style=for-the-badge&logo=instagram&logoColor=05C26A" alt="Instagram" /></a>
 
 <br/>
